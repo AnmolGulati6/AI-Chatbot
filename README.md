@@ -14,7 +14,7 @@ Chat application that utilizes the OpenAI API to enable interactive conversation
 
 ## Usage
 - In Constants file, insert your openAI APIKey by signing up for an OpenAI Accoun
-- In ContentView file, Enter your prompt into content as instructed in the file
+- In ChatViewModel file, Enter your prompt into content as instructed in the file
 - Launch the app on your iOS device or simulator
 - Enter your message in the text field and tap "Send" to send it
 - The AI assistant will generate a response, and it will be displayed in the chat interface
